@@ -13,3 +13,7 @@ other features:
 >a.) menu -> by which we can select option to perform certain operation like searching, insertion, deletion and so on.. 
 > b.) multiple product additon -> we can add multiple product at a time. 
 >  c.)multiple product deletion ->  we can delete multiple product at a time.
+
+
+About us:
+developed by pooja rai (btech cse 3rd year student)
